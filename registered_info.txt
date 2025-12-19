@@ -1,0 +1,20 @@
+Patient's Name: torres
+Relative's Name: torres
+Patient's Age: 1999 Sex: Male Blood Type: A+
+Diagnosis: cancer Stage I
+The Doctor Overseeing The Patient: Dr. Phil
+Patient's Name: Marc Lorenz Torres
+Relative's Name: Andrea Torres
+Patient's Age: 50 Sex: Male Blood Type: AB+
+Diagnosis: Cancer Stage II
+The Doctor Overseeing The Patient: Dokutah
+Patient's Name: Mardie
+Relative's Name: Totoy
+Patient's Age: 21 Sex: Male Blood Type: A+
+Diagnosis: Racer Stage V
+The Doctor Overseeing The Patient: Dokutah
+Patient's Name: Dela Cruz
+Relative's Name: Jr
+Patient's Age: 19 Sex: Male Blood Type: A+
+Diagnosis: Racist Stage V
+The Doctor Overseeing The Patient: Dr. Eggman
